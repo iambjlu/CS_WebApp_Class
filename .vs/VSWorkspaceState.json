@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WeeklyProgress",
+    "\\WeeklyProgress\\Week3_1110303",
+    "\\WeeklyProgress\\Week3_1110303\\WindowsFormsApp1",
+    "\\WeeklyProgress\\Week3_1110303\\WindowsFormsApp1\\WindowsFormsApp1"
   ],
+  "SelectedNode": "\\WeeklyProgress\\Week3_1110303\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
