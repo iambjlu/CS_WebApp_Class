@@ -57,7 +57,6 @@
             this.label1.Size = new System.Drawing.Size(82, 15);
             this.label1.TabIndex = 1;
             this.label1.Text = "線上使用者";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // listBox2
             // 
