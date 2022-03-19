@@ -1,5 +1,6 @@
 # C#網路程式設計課
-課本: <a href="https://www.books.com.tw/products/0010865381?loc=M_0005_001">Visual C#網路程式設計：線上遊戲實作</a><br><br>
+課本: <a href="https://www.drmaster.com.tw/Bookinfo.asp?BookID=MP32010">Visual C#網路程式設計：線上遊戲實作</a><br><br>
+課本範例程式: <a href="https://www.drmaster.com.tw/Bookinfo.asp?BookID=MP32010#download">官網下載點</a><br><br>
 
 <h2><a href="https://github.com/iambjlu/CS_WebApp_Class/tree/main/WeeklyProgress">每週進度</a></h2>
 <pre>
